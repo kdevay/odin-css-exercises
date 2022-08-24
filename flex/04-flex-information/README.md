@@ -2,18 +2,16 @@
 
 The goal of this exercise is to recreate a section that is found on many informational websites.
 
-For this one you will need to edit the HTML a little bit too. We can't be making things _too_ easy for you. You'll want to add containers around the various elements so that you can flex them. Good luck!
-
 ## Desired outcome
 
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-
-- All items are centered on the page (horizontally, not vertically).
+- Edit the HTML: add containers around the various elements to flex them. 
+- All items are centered horizontally on the page (not vertically).
 - The title is centered on the page.
-- There is 32px between the title and the 'items.'
-- There is 52px between each item.
-- The items are arranged horizontally on the page.
-- The items are only 200px wide and the text wraps.
+- 32px between title and 'items.'
+- 52px between each item.
+- items are arranged horizontally on the page.
+- items are only 200px wide and the text wraps.
 - The item text is centered.
